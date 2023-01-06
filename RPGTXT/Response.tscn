@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="Response" type="Label"]
+margin_top = 18.0
+margin_right = 1010.0
+margin_bottom = 32.0
+text = "Odpowiedz"
+autowrap = true

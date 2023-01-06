@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="Question" type="Label"]
+self_modulate = Color( 0.854902, 0.992157, 0.0784314, 1 )
+margin_right = 1010.0
+margin_bottom = 14.0
+text = "Test"
+autowrap = true
